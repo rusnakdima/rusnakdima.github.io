@@ -1,0 +1,231 @@
+{
+  "header": {
+    "headName": "Schedule of AF SPbGUP",
+    "company": "AF SPbGUP",
+    "login": "Login",
+    
+    "panel": "Panel",
+    "setting": "Setting",
+    "logout": "Logout",
+    
+    "menu": "Menu",
+    "dash": "Dashboard",
+    "schedule": "Schedule",
+    "rating": "Rating",
+    
+    "curWeek": "Current week",
+    "holidays": "Holidays"
+  },
+  "dash": {
+    "curDT": "Current date and time",
+    "notActiv": "There are no classes for today!"
+  },
+  "notfound": {
+    "text": "Page not found"
+  },
+  "singin": {
+    "email": "Email",
+    "username": "Username",
+    "password": "Password",
+    "text1": "Remember me",
+    "login": "Login",
+    "text2": "Forgot Password"
+  },
+  "admin": {
+    "cancel": "Cancel",
+    "prev": "Back",
+    "next": "Next",
+    "send": "Send",
+    "other": "Other",
+    "apply": "Apply",
+    "notify": "Notify",
+
+    "manage_groups": "Manage groups",
+    "manage_teachers": "Manage teachers",
+    "manage_disciplines": "Manage disciplines",
+    "manage_loads": "Manage loads",
+    "manage_schedules": "Manage schedules",
+    "manage_accounts": "Manage accounts",
+    "manage_audiences": "Manage audiences",
+    "manage_activities": "Manage type activities",
+    "manage_times": "Manage times",
+    "manage_directions": "Manage directions",
+    "manage_academic_years": "Manage academic years",
+    "load_analytics": "Load Analytics",
+
+    "name_edit": "The name of the group ([Only when adding] You can write the name of the groups separated by a semicolon [;], for multiple addition)",
+    "aud_edit": "Audience number ([Only when adding] You can write audience numbers separated by semicolons [;], for multiple addition)",
+    "activity_edit": "Class type ([Only when adding] You can record the types of classes separated by semicolons [;], for multiple addition)",
+    "direction_edit": "The direction of preparation ([Only when adding] You can write the directions of preparation separated by a semicolon [;], for multiple addition)",
+    "teacher_edit": "Teacher ([Only when adding] You can write the full name of teachers separated by semicolons [;], for multiple additions)",
+    "discipline_edit": "The name of the discipline ([Only when adding] You can write the name of the discipline with a semicolon [;], for multiple addition)",
+    "academic_year_edit": "Academic year ([Only when adding] You can record academic years separated by semicolons [;], for multiple additions)",
+    "fio_edit": "Student's full name (Students' full names can be separated by semicolons [;], for multiple addition)",
+    "editing": "Editing",
+    "addRec": "Add record",
+    "filter": "Filter",
+    
+    "chooseType": "Choose type",
+    "chooseGroup": "Choose group",
+    "chooseSubGr": "Choose subgroup",
+    "chooseYCS": "Choose academic year, course and semester",
+    "chooseCS": "Choose course and semester",
+    "chooseYear": "Choose academic year",
+    "chooseDirection": "Choose direction",
+    "chooseCourse": "Choose course",
+    "chooseSemester": "Choose semester",
+    "chooseItem": "Choose discipline",
+    "chooseTeacher": "Choose teacher",
+    "chooseLoads": "Choose loads",
+    "chooseTS": "Choose type schedule",
+    "chooseDT": "Choose date and time",
+    "chooseParity": "Choose parity",
+    "chooseWeek": "Choose week",
+    "chooseDate": "Choose date",
+    "chooseTime": "Choose time",
+    "chooseClass": "Choose audience",
+    "chooseActivity": "Choose type activity",
+    "chooseSubgr": "Choose subgroup",
+    
+    "enterAcadYear": "Enter the academic year",
+    "enterDirection": "Enter the direction",
+    "enterNumClass": "Enter the audience number",
+    "enterTeacher": "Enter the full name of the teacher",
+    "enterDiscipline": "Enter the name of the discipline",
+    "enterCourse": "Enter the course",
+    "enterNumStud": "Enter the number of students",
+    "enterHoursData": "Enter the load hours",
+    "enterHoursLecture": "Enter the number of lecture hours",
+    "enterHoursLabor": "Enter the number of laboratory hours",
+    "enterHoursPractice": "Enter the number of practical hours",
+    "enterHoursRK": "Enter the number of milestone hours",
+    "enterHoursControl": "Enter the number of control hours",
+    "enterHoursCourseWork": "Enter the number of course hours",
+    "enterHoursConsul": "Enter the number of consulting hours",
+    "enterHoursExam": "Enter the number of exam hours",
+    "enterHoursCredit": "Enter the number of credit hours",
+    "enterHoursCreditAsses": "Enter the number of hours of credits with the score",
+
+    "notifyAddData": "The data has been successfully added.",
+    "notifyChanData": "The data has been successfully changed.",
+    "notifyDelData": "The data has been successfully deleted.",
+    "notifyErrData": "Error sending data! Enter the data in the field.",
+
+    "editData": "You're editing a record! (Click here to stop editing)",
+    
+    "timeStart": "Start time",
+    "timeEnd": "End time",
+
+    "student": "Student"
+  },
+  "setting": {
+    "data": "User data",
+    
+    "name": "Name user",
+    "login": "Login",
+    "role": "Role user",
+    "group": "Group",
+    
+    "lang": "Language",
+    "theme": "Theme",
+    
+    "editGr": "Change the group",
+    "editPass": "Change the password",
+    
+    "setGr": "Set a group",
+    "text": "Specify the group",
+    
+    "curPass": "Enter the current password",
+    "newPass": "Enter a new password",
+    "confPass": "Confirm your password",
+
+    "en": "English",
+    "ru": "Russian",
+    "kk": "Kazakh",
+    
+    "light": "Light",
+    "dark": "Dark",
+    "custom": "Custom",
+
+    "color": "Color",
+    "image": "Image",
+
+    "chooseTypeBack": "Choose type background",
+    "chooseColor": "Choose a color",
+    "chooseColorWind": "Choose a window color",
+    "chooseColorText": "Choose a text color",
+    "chooseColorHover": "Select the hover color on the table row",
+    "chooseColorActive": "Select the highlight color of the table row",
+    "chooseColorBorder": "Choose the border color",
+    "chooseColorTextBut": "Choose the color of the text on the buttons",
+    "chooseColorBut": "Choose the color of the button",
+    "chooseColBorBut": "Select the color of the bottom border of the button",
+    "enterLink": "Enter the link to the image"
+  },
+  "schedule" : {
+    "dayly": "Dayly",
+    "weekly": "Weekly",
+    "session": "Session",
+
+    "all": "All",
+    
+    "odd": "Odd",
+    "even": "Even",
+    "each": "Each",
+    
+    "Mon": "Monday",
+    "Tue": "Tuesday",
+    "Wed": "Wednesday",
+    "Thu": "Thursday",
+    "Fri": "Friday",
+    "Sat": "Saturday",
+
+    "direction": "Direction",
+
+    "schedule_type": "Schedule Type",
+    "name_group": "Name group",
+    "academic_year": "Academic year",
+    "course": "Course",
+    "semester": "Semester",
+    "parity": "Parity",
+    "day_week": "Day week",
+    "date": "Date",
+    "time": "Time",
+    "name_discipline": "Name discipline",
+    "num_class": "Number class",
+    "type_activity": "Type activity",
+    "teacher": "Teacher",
+    
+    "subgroup": "Подгруппа",
+    "subgroup_1": "Subgroup 1",
+    "subgroup_2": "Subgroup 2",
+    "subgroup_3": "Subgroup 3",
+    "subgroup_4": "Subgroup 4",
+    
+    "first": "First semester",
+    "second": "Second semester"
+  },
+  "stud_load": {
+    "name_discipline": "Name discipline",
+    "academic_year": "Academic year",
+    "course": "Course",
+    "semester": "Semester",
+    "name_group": "Name group",
+    "num_stud": "Number students",
+    "teacher": "Teacher",
+    "hours_lecture": "Lecture (hours)",
+    "hours_labor": "Laboratory (hours)",
+    "hours_practic": "Practice (hours)",
+    "hours_rk": "BC (hours)",
+    "hours_control": "Control work (hours)",
+    "hours_course_work": "Course work (hours)",
+    "hours_consul": "Consulting (hours)",
+    "hours_exam": "Exam (hours)",
+    "hours_credit": "Credit (hours)",
+    "hours_credit_asses": "Credit with an assessment (hours)",
+    "total": "Total (hours)"
+  },
+  "teacher": {
+    "manage_journal": "Journals"
+  }
+}
